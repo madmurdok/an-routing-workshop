@@ -1,0 +1,4 @@
+:host.edited > div { /*применение к родителю компонента*/
+    border: 2px dotted red;
+  }
+  
